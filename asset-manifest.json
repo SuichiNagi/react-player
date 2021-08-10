@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-player/static/css/main.2409c1a1.chunk.css",
+    "main.js": "/react-player/static/js/main.bd12a2ff.chunk.js",
+    "main.js.map": "/react-player/static/js/main.bd12a2ff.chunk.js.map",
+    "runtime-main.js": "/react-player/static/js/runtime-main.059f84fb.js",
+    "runtime-main.js.map": "/react-player/static/js/runtime-main.059f84fb.js.map",
+    "static/js/2.0bf2cfed.chunk.js": "/react-player/static/js/2.0bf2cfed.chunk.js",
+    "static/js/2.0bf2cfed.chunk.js.map": "/react-player/static/js/2.0bf2cfed.chunk.js.map",
+    "index.html": "/react-player/index.html",
+    "static/css/main.2409c1a1.chunk.css.map": "/react-player/static/css/main.2409c1a1.chunk.css.map",
+    "static/js/2.0bf2cfed.chunk.js.LICENSE.txt": "/react-player/static/js/2.0bf2cfed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.059f84fb.js",
+    "static/js/2.0bf2cfed.chunk.js",
+    "static/css/main.2409c1a1.chunk.css",
+    "static/js/main.bd12a2ff.chunk.js"
+  ]
+}
